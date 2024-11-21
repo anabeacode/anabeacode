@@ -4,8 +4,7 @@
 
 📚 Estudante de ADS 
 
-🖥️ Focada atualmente em Front-End
-
+🖥️ 
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=anabeacode&show_icons=true&theme=onedark"/>
