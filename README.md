@@ -2,7 +2,9 @@
 
 👩🏼 Eu sou Ana Beatriz Esper
 
-📚 Estudante de ADS 
+📚 Estudante de ciência da computação
+
+Formada em ADS(2025)
 
 🖥️ 
 
