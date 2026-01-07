@@ -4,7 +4,7 @@
 
 📚 Estudante de ciência da computação
 
-🖥️ Formada em ADS(2025)
+🖥️ Formada em ADS
 
 
 
