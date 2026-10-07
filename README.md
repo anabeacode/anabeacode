@@ -1,13 +1,43 @@
-### Olá!
+# Olá! 👋
 
-👩🏼 Eu sou Ana Beatriz Esper
+Sou estudante de **Ciência da Computação** e formada em **Análise e Desenvolvimento de Sistemas**.
 
-📚 Estudante de ciência da computação
+Atualmente estou desenvolvendo meus conhecimentos em desenvolvimento web e construindo projetos para aprimorar minhas habilidades práticas.
 
-🖥️ Formada em ADS
+## 💻 Tecnologias e conhecimentos
 
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Lógica de Programação
+- Algoritmos
+- Banco de Dados
+- SQL
 
+## 🌱 Atualmente estudando
 
+- Desenvolvimento Web
+- JavaScript
+- Git e GitHub
+- Testes de Software
 
-### Let's connected:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-lima-esper-b4a32725a/)
+## 🚀 Projetos
+
+Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante meus estudos.
+
+Entre os projetos em desenvolvimento estão:
+
+- Sistema Vida Plus / SGHSS
+- Projetos de Desenvolvimento Web
+- Estudos de JavaScript
+- Testes de Software
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade de **estágio em Tecnologia da Informação**, onde possa desenvolver meus conhecimentos, adquirir experiência prática e contribuir com a equipe.
+
+## 📫 Contato
+
+[LinkedIn]([COLOQUE-AQUI-SEU-LINKEDIN](https://www.linkedin.com/in/ana-beatriz-lima-esper/)
