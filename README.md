@@ -40,4 +40,4 @@ Busco minha primeira oportunidade de **estágio em Tecnologia da Informação**,
 
 ## 📫 Contato
 
-[LinkedIn]([https://www.linkedin.com/in/ana-beatriz-lima-esper/])
+[LinkedIn](https://www.linkedin.com/in/ana-beatriz-lima-esper/)
