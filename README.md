@@ -14,7 +14,7 @@ Atualmente estou desenvolvendo meus conhecimentos em desenvolvimento web e const
 - Lógica de Programação
 - Algoritmos
 - Banco de Dados
-- SQL
+
 
 ## 🌱 Atualmente estudando
 
@@ -32,7 +32,7 @@ Entre os projetos em desenvolvimento estão:
 - Sistema Vida Plus / SGHSS
 - Projetos de Desenvolvimento Web
 - Estudos de JavaScript
-- Testes de Software
+
 
 ## 🎯 Objetivo
 
