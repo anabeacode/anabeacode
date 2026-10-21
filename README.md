@@ -31,7 +31,6 @@ Entre os projetos em desenvolvimento estão:
 
 - Sistema Vida Plus / SGHSS
 - Projetos de Desenvolvimento Web
-- Estudos de JavaScript
 
 
 ## 🎯 Objetivo
